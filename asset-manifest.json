@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ashishreact/static/css/main.e6c13ad2.css",
+    "main.js": "/ashishreact/static/js/main.071ca444.js",
+    "index.html": "/ashishreact/index.html",
+    "main.e6c13ad2.css.map": "/ashishreact/static/css/main.e6c13ad2.css.map",
+    "main.071ca444.js.map": "/ashishreact/static/js/main.071ca444.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.071ca444.js"
+  ]
+}
